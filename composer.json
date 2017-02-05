@@ -1,0 +1,22 @@
+{
+    "name": "azcoppen/screenplay-parser",
+    "description": "Generates auto-breakdowns from Final Draft, Adobe Story, Celtx, and Fountain screenplay files.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Coppen",
+            "email": "nospam@noemail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=5.3.0",
+      "ext-zip": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Screenplay": "src/"
+        }
+    }
+}
