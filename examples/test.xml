@@ -1,0 +1,2355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document type="Open Screenplay Format document" version="20">
+  <info uuid="F9341132-67BC-40C7-8A0F-A658241BACB3" pagecount="20"/>
+  <settings page_width="2159" page_height="2794" margin_top="254" margin_bottom="254" margin_left="381" margin_right="254" normal_linesperinch="6.0" element_spacing="1.00" break_on_sentences="true" dialogue_continues="false" dialogue_pagebreaks="true" cont_text="(cont'd)" more_text="(MORE)" scenes_continue="false" continued_text="CONTINUED" auto_omit_scenes="false" omitted_text="OMITTED" scene_time_separator=" - " page_header="#." page_footer="" header_alignment="3" footer_alignment="3" header_first_page="false" footer_first_page="false" pages_locked="false" pagenumber_start="1" pagenumber_mode="1AB" scene_numbering="false" scenenumber_mode="1AB" scenenumber_skip_io="false" scenenumber_start="1" scenenumber_format="#" scenenumber_position="3" scenes_locked="false" dialogue_numbering="false" dialoguenumber_start="1" dialoguenumber_format="()" dialogue_locked="false" revision="0" show_revisions="true" show_all_revisions="true"/>
+  <fadein_settings saved_with="2.0.556" last_position="0, 0" index_cards_show="2" index_cards_text_size="1" index_cards_use_folders="true" index_cards_use_colors="true" navigator_show="1" navigator_pagecount="1"/>
+  <styles>
+    <style name="Normal Text" builtin="1" builtin_index="0" label="Normal Text" font="Courier" size="12" bold="0" italic="0" underline="0" spacebefore="0.0" linespacing="1.0" align="left" leftindent="0" rightindent="0"/>
+    <style name="Scene Heading" builtin="1" builtin_index="1" label="Scene Heading" basestylename="Normal Text" style_enter="Action" style_tab_after="Action" font="Courier" size="12" bold="0" italic="0" underline="0" spacebefore="2.0" linespacing="1.0" keepwithnext="1" align="left" leftindent="0" rightindent="0" allcaps="1"/>
+    <style name="Action" builtin="1" builtin_index="2" label="Action" basestylename="Normal Text" style_tab_before="Character" font="Courier" size="12" bold="0" italic="0" underline="0" spacebefore="1.0" linespacing="1.0" align="left" leftindent="0" rightindent="0"/>
+    <style name="Character" builtin="1" builtin_index="3" label="Character" basestylename="Normal Text" style_enter="Dialogue" style_tab_before="Action" style_tab_after="Parenthetical" font="Courier" size="12" bold="0" italic="0" underline="0" spacebefore="1.0" linespacing="1.0" keepwithnext="1" align="left" leftindent="508" rightindent="64" allcaps="1"/>
+    <style name="Parenthetical" builtin="1" builtin_index="4" label="Parenthetical" basestylename="Normal Text" style_enter="Dialogue" style_tab_before="Dialogue" style_tab_after="Dialogue" font="Courier" size="12" bold="0" italic="0" underline="0" spacebefore="0.0" linespacing="1.0" keepwithnext="1" align="left" leftindent="381" rightindent="508"/>
+    <style name="Dialogue" builtin="1" builtin_index="5" label="Dialogue" basestylename="Normal Text" style_enter="Action" style_tab_before="Parenthetical" style_tab_after="Parenthetical" font="Courier" size="12" bold="0" italic="0" underline="0" spacebefore="0.0" linespacing="1.0" align="left" leftindent="254" rightindent="381"/>
+    <style name="Transition" builtin="1" builtin_index="6" label="Transition" basestylename="Normal Text" style_enter="Scene Heading" style_tab_after="Action" font="Courier" size="12" bold="0" italic="0" underline="0" spacebefore="1.0" linespacing="1.0" align="right" leftindent="1016" rightindent="102" allcaps="1"/>
+    <style name="Shot" builtin="1" builtin_index="7" label="Shot" basestylename="Normal Text" style_enter="Action" style_tab_after="Action" font="Courier" size="12" bold="0" italic="0" underline="0" spacebefore="2.0" linespacing="1.0" keepwithnext="1" align="left" leftindent="0" rightindent="0" allcaps="1"/>
+    <style name="Cast List" label="Cast List" font="Courier" size="12" bold="0" italic="0" underline="0" spacebefore="0.0" linespacing="1.0" align="left" leftindent="0" rightindent="0" allcaps="1"/>
+    <header_style basestylename="Normal Text"/>
+    <footer_style basestylename="Normal Text"/>
+  </styles>
+  <paragraphs>
+    <para>
+      <style basestylename="Action"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF">FADE IN:</text>
+    </para>
+    <para synopsis="Calm fields of wheat. Farmland. The heart of America.&#xA;In darkness.&#xA;&#xA;Set location and time." synopsis_color="#40A0FF" note="Near Plattsmouth Nebraska.&#xA;&#xA;Rivers nearby: Platte joins Missouri River">
+      <style basestylename="Scene Heading"/>
+      <text>EXT. Mast farm - nIGHT</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Wheat fields. Etched in darkness and moonlight. For the moment it’s calm.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text size="12" bold="1" color="#000000" bgcolor="#FFFFFF">TITLE: Nebraska, 1875.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>A WOMAN CRIES OUT, drawing our attention to a scant farm house in the distance.</text>
+    </para>
+    <para synopsis="Meet Walter and his son Henry.&#xA;&#xA;See Walter's scar = his wife Sarah passes while attempting childbirth.&#xA;&#xA;Seen through Henry's POV." synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>EXT. Mast house - cONTINUOUS</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Perched on the house’s front stair is HENRY MAST. He’s 11 years old and anxious as anything. </text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>His mother’s intermittent screams emanate from the house.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Nearby his father WALTER MAST, 40’s, smokes a pipe. Keeps his back to his son. Trying to hide the worry in his weathered face.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>More screams from inside.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>Henry</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Was it like this with me?</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter looks to Henry. His lack of response confirms it wasn’t. Something is wrong.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Then, silence.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter lowers his pipe. Faces the front door. Waiting. Standing in the painful silence.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>He can’t take it anymore -- lunges forward -- bursts in the front door --</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry strains to see past his father. </text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>His pregnant MOTHER lies motionless on the kitchen table.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>A weary DOCTOR approaches Walter with trembling hands.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>Doctor</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I’m sorry, Walter.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>He can barely pat Walter on the shoulder as he passes by.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter’s emotions overwhelm him. He folds in on himself, dropping to his knees before his dead wife.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry watches from the doorway. His eyes welling with tears.</text>
+    </para>
+    <para>
+      <style basestylename="Transition"/>
+      <text>Fade out:</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF">FADE IN:</text>
+    </para>
+    <para synopsis="Walter digs graves" synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>EXT. Mast farm - dAY</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Under grey skies. Walter hacks at the earth with a shovel. Stone-faced. Focused only on his task. Dig.</text>
+    </para>
+    <para>
+      <style basestylename="Transition"/>
+      <text>CuT TO:</text>
+    </para>
+    <para synopsis="Walter and Henry at the graves" synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>Later</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter and Henry stand before a fresh grave bearing two wooden crosses. There are no words.</text>
+    </para>
+    <para>
+      <style basestylename="Transition"/>
+      <text>FADE OUT:</text>
+    </para>
+    <para synopsis="See Walter now. A drunk." synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>iNT. Mast HOUSE - walter’s bedroom - mORNING</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Sunrise spills through an open window. A soft breeze tickles the curtains.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Somewhere in the mess on the bed lies Walter. A farmer ought to be up by now. </text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text size="12" bold="1" color="#000000" bgcolor="#FFFFFF">TITLE: Eight months later</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HENRY (o.S.)</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Pa!</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter groans.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HENRY (o.S.)</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Pa, we’re going to be late.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter swings his legs out of bed. An empty whiskey bottle falls to the floor. Not that he noticed.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter’s face hangs heavy. Tired. Unshaven.</text>
+    </para>
+    <para synopsis="The farm is falling apart. As is Walter.&#xA;&#xA;Henry is eager to go to church for some reason." synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>EXT. Mast HOUSE - DAY</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>The fields look fallow. Henry drives their farm wagon, and their one horse, up to the front of the house.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry’s shirt is tucked in and his hair is combed. His version of Sunday’s best when you can’t afford more.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter exits the house, tucking his shirt in as he goes.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HENRY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Come on!</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter climbs into the wagon at his own pace.</text>
+    </para>
+    <para synopsis="Meet Louis briefly, and his family - specifically daughter Mary, who it is very clear Henry likes.&#xA;" synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>iNT. Modest frontier church - DAY</text>
+    </para>
+    <para note="&quot;All Creatures Of Our God And King&quot; was modernized from an older hymn. This version wouldn't have been sung in 1875. It came to be sometime around 1900. Need to find a different song. One that fits chronologically.&#xA;&#xA;http://www.youtube.com/watch?v=HSb1-9i-fDA&#xA;&#xA;Reference:&#xA;&#xA;http://en.wikipedia.org/wiki/Canticle_of_the_Sun">
+      <style basestylename="Action"/>
+      <text>The church is shoulder-to-shoulder as PARISHIONERS sing </text>
+      <text size="12" underline="1" color="#000000" bgcolor="#FFFFFF">All Creatures Of Our God And King</text>
+      <text>.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Perched in the front pew and singing louder than anyone is LOUIS SUTTER, early 40’s. His opulent clothes hinting at arrogance. There’s no dirt under this man’s nails.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>To Louis’s sides are his wife ELIZABETH, late 30’s, and daughters ANNA, 9, and MARY, 11.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Mary takes her eyes off her hymnal just long enough to catch Henry staring at her from another pew, a few rows back. </text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry doesn’t look away. Just offers a soft smile that Mary returns.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter sings from the doorway with the same lack of enthusiasm he’s given the rest of the day.</text>
+    </para>
+    <para synopsis="After church Walter talks with Neighbor about Louis buying farms in the area.&#xA;&#xA;Create a feeling of dread for Louis.&#xA;" synopsis_color="#40A0FF" note="- shorter? &#xA;- Walter's role in this scene? This is his first dialogue in the movie. Or should he even speak? It's page 4 before he says anything.">
+      <style basestylename="Scene Heading"/>
+      <text>EXT. Modest frontier church - DAY</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Parishioners vacate the church. Walter chats with a group of fellow FARMERS.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>grim farmer</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Heard he bought another one.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>woEFUL farmer</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Where?</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>grim farmer</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Sarpy county.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>Neighbor</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Sarpy... He’s out to own the whole territory. Nebraska even.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WaLTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Man’s got means. What can you do?</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>Neighbor</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Tell you what I’d like to do--</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis exits the church, glad-handing everyone as he goes.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>Neighbor</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Look at that peacock. Like he’s president or something.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis passes by. His steely gaze locks with Walter’s.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>Neighbor</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Be a cold day in hell before he gets my farm.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter can’t pull his uneasy eyes from Louis.</text>
+    </para>
+    <para synopsis="Walter is denied an extension on his farm's loan" synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>iNT. small town bank - DAY</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter sits across the desk from a BANK OFFICIAL who can’t stop wringing his hands.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>BANK OFFICIAL</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I’d really like to help. I really would...</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WaLTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I’m not asking for a hand-out, George. It’s been a tough season. I just need more time.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>Bank official</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>You’ve already exceeded the grace period. Twice.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I know--</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>BANK OFFICIAL</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>You’ve accrued penalties that frankly it doesn’t appear you’re capable of recompensing.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I know--</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>BANK OFFICIAL</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>If you’re unable to make payment by month’s end you’re going to default on your mortgage and the bank will be forced to foreclose. Do you understand what I’m saying? We’ll take your farm, Walter.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>This hits Walter hard.</text>
+    </para>
+    <para synopsis="Walter returns, can't find Henry." synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>EXT. Mast FARM - DAY</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter stops his wagon in front of the house. A moment passes as he take stock of his situation.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>He grabs a whiskey bottle and knocks it back. Takes a long hard look at his farm.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WaLTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Henry!</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>No response.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Boy!</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Nothing. Where is he?</text>
+    </para>
+    <para synopsis="Get a sense for Mary as she and Henry share time." synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>eXT. prairie - DAy</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>A kite. Flying high over the prairie. Below there’s laughter.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Mary wrestles with the kite line. It’s windy enough that the kite keeps pulling at her hands.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>She trades smiles with Henry.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>-- a gust of wind grabs the kite -- jerks Mary to her toes --</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry springs into action. Grabs her. </text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Their weight too much, the kite line SNAPS and they fall to the ground in a heap.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>They’re face-to-face. Smiles and awkwardness. If they were older this would be where they’d kiss. Instead --</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>-- they look to the sky. Mary’s kite floats away forever.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Suddenly Mary bursts out laughing and leaps to her feet. </text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry watches her dance to music only she can hear. Gliding across the prairie without a care in the world. Henry smiles.</text>
+    </para>
+    <para synopsis="Show the strained relationship between Walter and Henry." synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>EXT. Mast HOUSE - sunset</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry approaches the house with a contented smile. Until he gets close enough to see --</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter is on the porch. Smoking his pipe. On his way to drunk.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Where you been?</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HENRY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Out.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry blasts past him. Letting the door slam after him.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>You missed your chores!</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter doesn’t go after him. Like always.</text>
+    </para>
+    <para synopsis="Walter finds Neighbor packing up, moving on. Louis has bought his farm.&#xA;&#xA;A glimpse at Walter's future.&#xA;&#xA;Walter is indignant to his neighbor." synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>eXT. Neighbor farm - DAY</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter’s wagon enters the long dusty lane to his neighbor’s farm. </text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>As he nears the house he spots an unexpected sight: Neighbor packing his wagon.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Neighbor is visibly upset.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>What’s going on here?</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>NEIGHBOR</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I didn’t have a choice. </text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter looks to the house where Louis is directing MEN. Walter realizes: Neighbor sold his farm.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>NEIGHBOR</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I got a family to think about.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>What did he offer?</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>NEIGHBOR</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Enough. He offered enough.</text>
+    </para>
+    <para note="remove the unused character name">
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Neighbor lifts his WIFE and TWO DAUGHTERS into the wagon. Then climbs in himself.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter is incensed. Betrayed.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I never thought you’d be the sort to cut and run. Well go ahead. Scurry back to Kansas, you gutless cur. See if you can’t get work making womens’ dresses cuz you sure as hell ain’t no granger.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Neighbor takes the abuse. He couldn’t feel much worse anyway. </text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>NEIGHBOR</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>There’s nothing here for me. Nothing for you either. Time to move on.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Neighbor flicks the reigns. His wagon ambles off.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter can feel Louis’s eyes on him. Staring at him with fixed interest. Walter meets his gaze. Two titans of will in a silent stand-off.</text>
+    </para>
+    <para synopsis="Louis approaches" synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>eXT. mast farm - dAY</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>The sun blazes overhead. Walter is in the field, struggling to run a plow behind his horse.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis’s carriage rustles down the farm lane. </text>
+    </para>
+    <para synopsis="Louis offers Watler his best deal. Walter refuses.&#xA;Louis opens up on him. About how unreasonable he is.&#xA;&#xA;He just can't understand him. How can he turn down a good deal?&#xA;&#xA;Maybe he's too drunk (soaked) to know a good deal.&#xA;or&#xA;He wouldn't know a good deal unless it was at the bottom of a bottle." synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>EXT. masT HOUSE - momeNTS LATER</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis climbs from his carriage just as Henry rounds the house and freezes -- stunned to see him.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>Louis</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Afternoon, son. Is your father here?</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry doesn’t answer. Intimidated on every level.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LoUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I asked you a question. It’s impolite not to answer. That is unless you’re dumb. You’re not dumb, are you, boy?</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis approaches Henry. Each step further illustrating how small Henry is to him.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER (o.S.)</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Go on inside, Henry.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis turns to see Walter only a few steps away.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Parenthetical"/>
+      <text>to Henry</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Go on.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry runs inside.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Afternoon, Mr. Mast. My name is Louis--</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I know who you are. I’m not interested.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>You haven’t heard my offer.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I ain’t selling. Not now. Not ever.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Then I guess I made the trip out here for nothing.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis is still wearing his salesman’s smile. Walter’s not buying, and damn sure he ain’t selling.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Well be that as it may, I’m already here. I might as well unburden myself of my proposal. </text>
+      <text size="12" color="#000000" bgcolor="#FFFFFF">T</text>
+      <text>welve cents an acre would be more than a smart sprinkle but I can tell you’re a shaver and I don’t aim to waste your time. Thirteen cents.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter spits. Louis can’t believe it. He’s amused by a hard bargain.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Sakes you are a shaver. All right, Mr. Mast. You win. Best offer. Eighteen cents on the acre. That’s a right smart deal. Far more than it’s worth. Especially considering its current state. What say you to that, sir?</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WaLTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Appreciate your offer, Mr. Sutter. The answer is no.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter turns, heads back toward the fields. </text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis is beside himself with rage.</text>
+    </para>
+    <para note="dialogue should have a character name above it. ">
+      <style basestylename="Dialogue"/>
+      <text size="12" italic="1" color="#000000" bgcolor="#FFFFFF">This shouldn’t be here.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>You turn your back on me?</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter turns back, cautious of the tiger he’s uncaged.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis’s demeanor has flipped. The salesman’s smile has been replaced by a venomous rage.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I offered you a fair deal. </text>
+      <text size="12" underline="1" color="#000000" bgcolor="#FFFFFF">A fair deal.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I meant no disrespect Mr. Sutter--</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Money is respect! I offered you mine and you turned your back to me. You’re going to regret this.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis storms back to his carriage.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter looks uneasy. Sees Henry staring at him from the front door. </text>
+    </para>
+    <para synopsis="Louis visits the bank&#xA;&#xA;Intent: buy Walter's loan" synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>iNT. small town bank - DAY</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>A satchel is dropped onto the Bank Official’s desk. The size and weight of which could hold a lot of money.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>He looks up to see Louis wearing a devious smile.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Good afternoon.</text>
+    </para>
+    <para synopsis="Bank official visits Walter, informs him his loan has been sold to Louis" synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>eXT. maST FARM - eVENING</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter exits his house to find the Bank Official on his front door step with an apologetic nervousness.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter spots Louis a few yards away. Smirking.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>What are you doing here?</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I’ve come for restitution.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WaLTER</text>
+    </para>
+    <para>
+      <style basestylename="Parenthetical"/>
+      <text>to Bank Official</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>What have you done?</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>BANK OFFICIAL</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I’m sorry, Walter.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>The bank was wise enough to sell me your loan. You see, they know a smart deal when they see one.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>You can’t do that.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>BANK OFFICIAL</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>We didn’t have a choice. You’re over head and ears. Mr. Sutter paid in full.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Don’t worry, Walter, I’m not a hard hearted man. You have till the end of the week to square even. Which by my account is three months plus interest. Then it’s mine.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter looks he’s about to explode. Somewhere between tears and rage.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WaLTER</text>
+    </para>
+    <para>
+      <style basestylename="Parenthetical"/>
+      <text>to Bank Official</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Please. My wife is buried in this land.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Shamefaced, Bank Official can’t even look at Walter.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>You mean my land.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter’s torrid eyes peg Louis’s smug, haughty face so hard it could leave marks.</text>
+    </para>
+    <para synopsis="More Henry and Mary alone time. Bonding. Provide a spark of hope for Henry to leave his father." synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>EXT. praIRIE - afterNOON</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry and Mary trudge over the terrain in step.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HeNRY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>What’s school like?</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>Mary</text>
+    </para>
+    <para note="should be: don't know">
+      <style basestylename="Dialogue"/>
+      <text>I dunno. Fun I guess. My Daddy says anyone worth their salt has an education. You’ve never been?</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HENRY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Pa won’t let me.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>MARY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>How come?</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HENRY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>He needs my help on the farm.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>MARY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>You aren’t there now.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HENRY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I hate that place. Besides, I’d rather be with you.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>MARY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Maybe you could come live with us.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry looks rocked by the possibility. A meager jolt of hope.</text>
+    </para>
+    <para synopsis="Louis catches Mary with Henry. Tells him he can’t see her because his dad is a no good piece of trash." synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>Ext. Creek - sunSET</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry and Mary come to a small creek. Henry dashes across a fallen log to cross it.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Mary attempts to traverse the log but it’s unstable, wobbling  under her weight. She’s nervous and looks as if she’s going in the creek.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Suddenly Henry appears back on the log. He grabs her by the hand and leads her to the other side.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Once off the log Henry notices Mary doesn’t let go of his hand. He likes it.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>They head toward her house, hand in hand. Each one stealing little glimpses and giggles at each other.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS (o.S.)</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Let go of her!</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry looks shocked. Sees Louis thundering toward them.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis shoves Henry away from Mary. Hard.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Don’t ever put hands on my daughter.</text>
+    </para>
+    <para>
+      <style basestylename="Parenthetical"/>
+      <text>to Mary</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>You are never to see this boy again. Never! Do you understand?</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Mary begins to tear up. She doesn’t understand.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>MARY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>But... why?</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Because I said. Now get inside the house!</text>
+    </para>
+    <para>
+      <style basestylename="Character" dualdialogue="1"/>
+      <text>MARY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>But Daddy--</text>
+    </para>
+    <para>
+      <style basestylename="Character" dualdialogue="1"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I said get!</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>With tears in her eyes Mary runs to the house.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis turns his attention back to Henry.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Your father put you up to this?</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HeNRY</text>
+    </para>
+    <para>
+      <style basestylename="Parenthetical"/>
+      <text>confused</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>No, sir.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Yeah, sure. He is a salty mop isn’t he?</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HENRY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I’m not like him.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>What do you possibly think you have to offer my daughter? You come from nothing. You are nothing. You are your father’s son. Don’t ever go near my daughter again.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis leaves Henry broken-hearted in the last bit of sunset. Darkness is coming.</text>
+    </para>
+    <para synopsis="Walter is a mess. When Henry shows up he yells at him. Henry yells back. Animosity.&#xA;" synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>INT. maST houSE - nIGHT</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>A cast iron skillet drops to the floor with a CLANG as the steak Walter was cooking in it falls out. Walter cries out, having burned himself by the fire.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>He wraps his hand in a towel, muffling curses. He takes a swig from his whiskey bottle to help dull the pain.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry storms in.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Get that steak off the floor will ya?</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HeNRY</text>
+    </para>
+    <para>
+      <style basestylename="Parenthetical"/>
+      <text>re: the whiskey</text>
+    </para>
+    <para note="Shaney &#xA;Spooney&#xA;Corned&#xA;Tangled-footed ">
+      <style basestylename="Dialogue"/>
+      <text>Looks like you’ve already had dinner.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Watch the sass, boy. Where you been? I can never find you. I need your help around here. I’m trying to save the farm.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HENRY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>You couldn’t even save ma.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter slaps Henry across the face. Immediately regretting it.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>A tear rolls down Henry’s face but he doesn’t whimper. Instead he stares into Walter with contempt.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HENRY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I hate you.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry heads to his room. Walter is left hating himself.</text>
+    </para>
+    <para>
+      <style basestylename="Scene Heading"/>
+      <text>inT. sUTTER HOUSE - louis’s office - nIGHT</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis reads over documents by lantern light. His wife Elizabeth fills the doorway.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>Elizabeth</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>She’s stopped crying... if you’re interested.</text>
+    </para>
+    <para note="this one should be removed">
+      <style basestylename="Character"/>
+      <text>ELIZABETH</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text size="12" italic="1" color="#000000" bgcolor="#FFFFFF">This dialogue shouldn’t be here.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis puts his paperwork down. Of course he’s interested.</text>
+    </para>
+    <para synopsis="Show that Louis actually does care about his family. He's not a jerk for jerk's sake. Everything he does, even if they seem horrible, are to provide for and keep safe his family.&#xA;&#xA;Mary hugs him back. Showing he is worthy of love. Though we don't comletely see it. His daughter has obviously seen more from him than we have." synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>INT. sUTTER HOUSE - mary’s room - nIGHT</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis peeks in. Mary’s on her bed, her back to the door. Louis crosses the room, sits gingerly on her bed. Takes his time finding the right words.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I’m only trying to do what’s best by you. Someday you’ll understand.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>No response from Mary. Louis considers leaving for a beat.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Mary gets up, climbs into her father’s arms and hugs him tight. He hugs her back. Hard to say ‘I love you’ when you’re upset but it doesn’t mean you can’t show it.</text>
+    </para>
+    <para>
+      <style basestylename="Transition"/>
+      <text>FADE OUT.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>FADE IN:</text>
+    </para>
+    <para synopsis="Walter visits Sarah’s grave. He's at his wit's end.&#xA;&#xA;A locust lands while he's talking to her. As if it's a sign." synopsis_color="#40A0FF" note="This scene demonstrates the use of every default element in Final Draft.&#xA;&#xA;- Transition&#xA;- Scene Heading&#xA;- Cast List (rarely used outside of half-hour TV)&#xA;- Action&#xA;- Shot&#xA;- Character&#xA;- Parenthetical&#xA;- Dialogue&#xA;- General">
+      <style basestylename="Scene Heading"/>
+      <text>eXT. mAST FARM - DAY</text>
+    </para>
+    <para>
+      <style basestylename="Cast List"/>
+      <text>(WALTER)</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Abashed, Walter stands before his wife’s grave, wringing his hands.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Parenthetical"/>
+      <text>softly</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I don’t know what to do. Sure could use your advice.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>As if an answer -- </text>
+    </para>
+    <para>
+      <style basestylename="Shot"/>
+      <text>A ROCKY MOUNTAIN LOCUST lands on his wife’s grave marker.</text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center"/>
+      <text>Production note: grave marker is a weathered cross.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter studies it, looking for meaning.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>After a moment it flutters away.</text>
+    </para>
+    <para synopsis="Mary discovers Henry is back" synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>inT. sUTTER HOUSE - DAY</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Mary combs through the hair of her doll. Suddenly there’s a PLINK of something against her window.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Mary goes to the window to investigate. </text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Below: Henry, waves for her to come outside.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Mary’s face lights up when she sees him.</text>
+    </para>
+    <para synopsis="Walter in the field by himself. &#xA;&#xA;His equipment breaks and his horse runs off. Horse damages Sarah's grave stone. (must setup grave earlier)&#xA;&#xA;He's at his breaking point." synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>EXT. maST FARM - DAY</text>
+    </para>
+    <para note="should be removed">
+      <style basestylename="Action"/>
+      <text>A plow share chews up earth as it goes. </text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter’s in the field running it behind his horse.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Suddenly the horse stops.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Come on.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter snaps the reigns but his horse doesn’t respond.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Frustrated Walter moves beside it. Smacks it on the butt. Nothing. He tries again -- slapping it so hard the horse rears up -- knocks Walter to the ground -- </text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>  The horse breaks from the field, dragging the plow behind.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter can only watch as it jangles and digs, puncturing his land in a Morse code of destruction.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>No!</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>The horse barrels right into his wife’s grave. Destroying the cross. Ripping soil like an open wound.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter clenches his jaw. Lets out a roar. He’s had enough...</text>
+    </para>
+    <para synopsis="Henry hatches a plan for him and Mary to escape&#xA;&#xA;Problem being Mary has it pretty good. She doesn't want to leave her family and her big house.&#xA;&#xA;His plan is crazy to her. She rejects him." synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>eXT. suTTER HOUSE - DAY</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry and Mary hide behind a tree in her back yard.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HENRY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>There’s a train tonight. Well have to go on the fly and hide in the cow crate so the bulls don’t get us. When we get to Lincoln we’ll find a flop. I’ll get work in a factory. You’ll have to work too.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Mary looks dismayed by his plan.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>MARY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I don’t want to leave.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HENRY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>It’s okay. I’m scared too. We’ll be fine.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>MARY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>That’s easy for you to say you’re not leaving anything behind.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry is stunned. She’s never insulted him before.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HENRY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>It’s the only way we can be together.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Mary hesitates... can barely speak.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>MARY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I don’t want to go.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry sinks back. Crestfallen.</text>
+    </para>
+    <para synopsis="Louis hunts for Mary" synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>INT. sUTTER HOUSE - same time</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis scans the house.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Mary?</text>
+    </para>
+    <para synopsis="Mary agrees to run away with Henry. &#xA;&#xA;Louis catches them. Is about to lay the beat down on Henry when Walter shows up with a rifle.&#xA;&#xA;It's all about ot go down.&#xA;&#xA;...and then come the LOCUSTS!" synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>back outside with mary and henry</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry grabs Mary’s hand.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HENRY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>If I leave now you’re never going to see me again.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>He waits for sign from Mary but she offers none. Can’t even meet his eyes. </text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Defeated Henry stands. Instantly he’s yanked back down by Mary.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>MARY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Okay.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Her eyes are heavy with sadness but at least they look at Henry. It’s enough.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry tends a soft smile. Happy she’s coming.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HENRY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Okay.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry rises just as a hand clamps down on him from behind -- throws him across the lawn.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>What did I tell you? </text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>MARY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Daddy, no!</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry tries to get up but Louis shoves him further across the lawn. Advancing faster than he can react.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>What were the words I spoke?</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Another shove.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>If you’ve forgotten than perhaps I need to beat them into your memory.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis raises his fist to strike Henry.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Keep away from my--</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>CRACK! A SHOT rings out. </text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis jolts as his shoulder dribbles blood, nipped by the bullet that just whizzed by him. A flesh wound.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter stands thirty yards away. Staring down the smoking barrel of his Winchester rifle.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>His tone is measured and firm.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Step away from my boy.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Mary screams. Runs in the house.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>You shot me. You fuddled dolt.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Mouth agape, Henry scrutinizes Walter. Unsure if he fired a warning shot or if he’s so drunk he missed.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>You’ll be in the calaboose by dinner. I’ll see to that. You’ve dug your own grave.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter cocks the lever on his rifle. </text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry can see now: that was no warning shot. </text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis sees it too. Finally as nervous as he should be.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Wait a minute now. Hold on...</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter takes aim.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Suddenly Elizabeth emerges from the house with Louis’s rifle trained on Walter. Mary just behind her.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HeNRY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>No!</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter sees her.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>elIZABETH</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>I’m a God fearing woman, mister, but if you don’t get that rifle off my husband I’ll bury you.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Eyes dart from side-to-side. Who will be the first to flinch?</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Nobody moves. The air so thick with tension no one even breathes.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter refocuses on Louis. Resigned to whatever fate comes after. He fingers the trigger. Ready.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Suddenly a locust lands on Walter’s gun barrel.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter studies it. Perplexed.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Is it a sign from his wife?</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Another locust zips by. Then another.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>The sunlight dims on everyone -- as if a large cloud has moved overhead.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Then comes the noise: the strange, awful BUZZING. Growing louder with each second. Getting closer.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Everyone can feel it. Something’s not right.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Mary’s the first to look up. Her eyes going wide. Mouth agape.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>MARY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Daddy...</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis looks to the sky. The dread washing over his face too.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Finally Walter pries his focus from Louis. Gazes to the heavens.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>The sky is alive in a swarm of locusts. Millions of them. Enough to block the sun, and every other inch of sky.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter lowers his rifle in sheer awe.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>WALTER</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>My God.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis stumbles toward the house.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Inside! Everybody inside!</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Everyone rushes for the house as the swarm descends at them.</text>
+    </para>
+    <para synopsis="Louis VS Walter at the front door. &#xA;&#xA;He won't let them in!" synopsis_color="#40A0FF">
+      <style basestylename="Scene Heading"/>
+      <text>Int./ext. SUTTER HOUSE - front door - conTINUOUS</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Elizabeth pushes Mary inside. Louis pulls the screen door tight behind.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>ELIZABETH</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>What are you doing?</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry and Walter scramble for the porch. Swatting locusts as they go.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry gets to the door first. He jerks at the handle but Louis holds it fast.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HeNRY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Let us in.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Henry jerks at the door to no avail.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>MARY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Let him in.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>ELIZABETH</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Louis, please.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>The locusts are everywhere now. Engulfing the landscape. The ground turning to a living carpet of hungry insects.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter finally makes it to the porch.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Louis lets go of the door -- grabs his rifle from Elizabeth -- raises it in time to meet Walter’s. Both men are face-to-face with each other’s guns.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Locusts crawl across Walter but he doesn’t flinch. This could be his chance to kill Louis.</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>HeNRY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Mr. Sutter--</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>MARY</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>Daddy...</text>
+    </para>
+    <para>
+      <style basestylename="Character"/>
+      <text>LOUIS</text>
+    </para>
+    <para>
+      <style basestylename="Parenthetical"/>
+      <text>to Walter</text>
+    </para>
+    <para>
+      <style basestylename="Dialogue"/>
+      <text>You’re not getting in here with that rifle.</text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>Walter stares into Louis’s cold eyes. </text>
+    </para>
+    <para>
+      <style basestylename="Action"/>
+      <text>He can hear Henry screaming, struggling to wipe the locusts clean. They need to get inside fast.</text>
+    </para>
+  </paragraphs>
+  <titlepage>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" underline="1" color="#000000" bgcolor="#FFFFFF">FARMLAND</text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF">by</text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF">Jeffrey Stoltzfus</text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF">Inspired by a true event</text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF">Address</text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF">Phone Number</text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF">Email address</text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" italic="1" color="#000000" bgcolor="#FFFFFF">"You cannot find peace by avoiding life."</text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" color="#000000" bgcolor="#FFFFFF"></text>
+    </para>
+    <para>
+      <style basestylename="Normal Text" align="center" leftindent="-127"/>
+      <text size="12" italic="1" color="#000000" bgcolor="#FFFFFF">-- Virginia Woolf</text>
+    </para>
+  </titlepage>
+  <spelling language="en_US">
+    <user_dictionary/>
+  </spelling>
+  <lists>
+    <characters>
+      <character name="Louis"/>
+      <character name="Walter"/>
+      <character name="Henry"/>
+      <character name="Mary"/>
+      <character name="Bank official"/>
+      <character name="Neighbor"/>
+      <character name="Elizabeth"/>
+      <character name="grim farmer"/>
+      <character name="Woeful farmer"/>
+      <character name="Doctor"/>
+      <character name="NEIGHBOR'S WIFE"/>
+      <character name="NEIGHBOR'S DAUGHTER 2"/>
+      <character name="NEIGHBOR'S DAUGHTER 1"/>
+      <character name="ANNA"/>
+      <character name="LOUI"/>
+    </characters>
+    <locations>
+      <location name="Mast farm"/>
+      <location name="Mast HOUSE"/>
+      <location name="church"/>
+      <location name="sUTTER HOUSE"/>
+      <location name="SUTTER HOUSE - front door"/>
+      <location name="outside with mary and henry"/>
+      <location name="sUTTER HOUSE - mary’s room"/>
+      <location name="sUTTER HOUSE - louis’s office"/>
+      <location name="Creek"/>
+      <location name="praIRIE"/>
+      <location name="baNK"/>
+      <location name="Neighbor farm"/>
+      <location name="Mast HOUSE - walter’s bedroom"/>
+      <location name="LOCATION"/>
+    </locations>
+    <scene_intros>
+      <scene_intro name="INT."/>
+      <scene_intro name="EXT."/>
+      <scene_intro name="I/E."/>
+      <scene_intro name="INT./EXT."/>
+    </scene_intros>
+    <scene_times>
+      <scene_time name="DAY"/>
+      <scene_time name="NIGHT"/>
+      <scene_time name="AFTERNOON"/>
+      <scene_time name="MORNING"/>
+      <scene_time name="EVENING"/>
+      <scene_time name="LATER"/>
+      <scene_time name="MOMENTS LATER"/>
+      <scene_time name="CONTINUOUS"/>
+      <scene_time name="THE NEXT DAY"/>
+      <scene_time name="WALTER'S BEDROOM"/>
+      <scene_time name="SUNSET"/>
+      <scene_time name="MARY'S ROOM"/>
+      <scene_time name="SAME TIME"/>
+    </scene_times>
+    <extensions>
+      <extension name="(V.O.)"/>
+      <extension name="(O.S.)"/>
+      <extension name="(O.C.)"/>
+      <extension name="(CONT'D)"/>
+      <extension name="(SUBTITLE)"/>
+    </extensions>
+    <transitions>
+      <transition name="CUT TO:"/>
+      <transition name="FADE IN:"/>
+      <transition name="FADE OUT."/>
+      <transition name="FADE TO:"/>
+      <transition name="DISSOLVE TO:"/>
+      <transition name="BACK TO:"/>
+      <transition name="MATCH CUT TO:"/>
+      <transition name="JUMP CUT TO:"/>
+      <transition name="FADE TO BLACK."/>
+      <transition name="Fade out:"/>
+    </transitions>
+    <revision_colors>
+      <revision_color name="White" index="0" color_name="White" color_index="0" mark=""/>
+      <revision_color name="Blue Rev. (mm/dd/yyyy)" index="1" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="Pink Rev. (mm/dd/yyyy)" index="2" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="Yellow Rev. (mm/dd/yyyy)" index="3" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="Green Rev. (mm/dd/yyyy)" index="4" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="Goldenrod Rev. (mm/dd/yyyy)" index="5" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="Buff Rev. (mm/dd/yyyy)" index="6" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="Salmon Rev. (mm/dd/yyyy)" index="7" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="Cherry Rev. (mm/dd/yyyy)" index="8" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="Tan Rev. (mm/dd/yyyy)" index="9" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="2nd White Rev. (mm/dd/yyyy)" index="10" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="2nd Blue Rev. (mm/dd/yyyy)" index="11" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="2nd Pink Rev. (mm/dd/yyyy)" index="12" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="2nd Yellow Rev. (mm/dd/yyyy)" index="13" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="2nd Green Rev. (mm/dd/yyyy)" index="14" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="2nd Goldenrod Rev. (mm/dd/yyyy)" index="15" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="2nd Buff Rev. (mm/dd/yyyy)" index="16" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="2nd Salmon Rev. (mm/dd/yyyy)" index="17" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="2nd Cherry Rev. (mm/dd/yyyy)" index="18" color_name="White" color_index="0" mark="*"/>
+      <revision_color name="2nd Tan Rev. (mm/dd/yyyy)" index="19" color_name="White" color_index="0" mark="*"/>
+    </revision_colors>
+    <tag_categories>
+      <tag_category name="Cast"/>
+      <tag_category name="Extras"/>
+      <tag_category name="Stunts"/>
+      <tag_category name="Vehicles"/>
+      <tag_category name="Props"/>
+      <tag_category name="Special Effects"/>
+      <tag_category name="Costumes"/>
+      <tag_category name="Makeup"/>
+      <tag_category name="Animals"/>
+      <tag_category name="Animal Handler"/>
+      <tag_category name="Music"/>
+      <tag_category name="Sound"/>
+      <tag_category name="Set Dressing"/>
+      <tag_category name="Greenery"/>
+      <tag_category name="Special Equipment"/>
+      <tag_category name="Security"/>
+      <tag_category name="Additional Labor"/>
+      <tag_category name="Visual FX"/>
+      <tag_category name="Mechanical FX"/>
+      <tag_category name="Miscellaneous"/>
+      <tag_category name="Notes"/>
+    </tag_categories>
+  </lists>
+</document>
