@@ -2,6 +2,10 @@
 
 * Author: **Alex Coppen** (azcoppen@protonmail.com)
 
+## Important: Look at ScreenJSON instead
+
+This package was a quick hack to get at the data inside Final Draft (XML), Celtx (RDF), Adobe Story (XML), Fountain (Markdown) and FadeIn (XML) files. The long-term future can't be about spaghetti-coding this stuff to deal with a dozen different proprietary file formats that are useless for doing anything meaningful. ScreenJSON is an effort to get **rid** of the writing packages/modules like this so there's a universal interchange format that can be imported into any programming language or platform, and can also be mined for information. Instead of wasting time dealing with these formats, come work on a better one!
+
 ## Overview
 
 Once a script has been drafted by a screenwriter and financially *green-lit* for production, it is distributed to over 20 different film departments for *marking up*. Directors re-write, producers annotate, while wardrobe, locations, effects, casting and others, need to produce a **breakdown**.
